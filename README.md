@@ -33,25 +33,25 @@ We observe various network traffic to and from Azure Virtual Machines with Wires
 <h2>Actions and Observations</h2>
 
 <p>
-<img src= https://i.imgur.com/f0s18tY.jpeg height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= https://i.imgur.com/wX0q4nF.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Carrying out network-related tasks with remote desktop connection
+
 </p>
 <br />
 
 <p>
-<img src= https://i.imgur.com/sIVfX2Q.jpeg height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= https://i.imgur.com/cXXgr1M.jpg  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Remember your username and password at all times when you enter your credentials.
+
 </p>
 <br />
 
 <p>
-<img src= https://i.imgur.com/YoO546s.jpeg height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=  https://i.imgur.com/1iZFZDe.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Observe the instructions to verify that all downloads have been installed correctly.
+
 </p>
 <br />
