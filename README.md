@@ -34,7 +34,7 @@ We observe various network traffic to and from Azure Virtual Machines with Wires
 
 <p>
 <img src= https://i.imgur.com/wX0q4nF.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p> A resource group sets up two virtual computers running Linux and Windows 10, as well as a virtual network and subnet inside of it. A network security group, or NSG, will be connected to the network adapter on Vm1 and Vm2 to ensure that a firewall can examine traffic.
 <p>
 
 </p>
@@ -42,7 +42,7 @@ We observe various network traffic to and from Azure Virtual Machines with Wires
 
 <p>
 <img src= https://i.imgur.com/cXXgr1M.jpg  height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p>create Windows 10 virtual machine (VM1), use an existing resource group, and confirm that the virtual machines and network are located in the same region. When dealing with the virtual machines, make notes so you remember vital information. Put your login and password, for example, on a notepad.
 <p>
 
 </p>
@@ -50,7 +50,9 @@ We observe various network traffic to and from Azure Virtual Machines with Wires
 
 <p>
 <img src=  https://i.imgur.com/1iZFZDe.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p>Your virtual machine (VM) will be tested and used to communicate from the two VMs using its public and private IP addresses. Examine VM1, also utilize the current network for VM 2.
+<p>
+
 <p>
 
 </p>
